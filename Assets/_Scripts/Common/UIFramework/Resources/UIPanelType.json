@@ -1,0 +1,25 @@
+{
+  "uiInfoList": [
+    {
+      "panelTypeString": "MainPanel",
+      "path": "UIPanel/MainPanel"
+    },
+    {
+      "panelTypeString": "TextContentPanel",
+      "path": "UIPanel/TextContentPanel"
+    },
+    {
+      "panelTypeString": "ImageContentPanel",
+      "path": "UIPanel/ImageContentPanel"
+    },
+    {
+      "panelTypeString": "VideoContentPanel",
+      "path": "UIPanel/VideoContentPanel"
+    },
+    {
+      "panelTypeString": "ExitPanel",
+      "path": "ExitPanel"
+    }
+  ]
+
+}
